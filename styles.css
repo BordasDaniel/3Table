@@ -1,0 +1,47 @@
+
+.elso th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+    text-align: center;
+    background-color: #96d4d4;
+}
+
+
+.elso, .masodik, .harmadik {
+    width: 100%;
+}
+
+
+.masodik {
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.masodik th {
+   border: 1px solid black;
+   border-radius: 10px;
+   background-color: white;
+}
+.masodik td {
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: white;
+}
+
+
+.harmadik th {
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.harmadik td {
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: white;
+}
+
+hr{
+    border: 2px solid crimson;
+}
